@@ -14,6 +14,7 @@
 * 'git log' - show commit log
 * 'git log -- oneline' - show simple commit log
 * 'git checkout '
+* 'git config -l' - list repo config
 
 ### Branching Commands
 
