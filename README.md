@@ -21,6 +21,7 @@
 * 'git remote add origin repoURL' -create alias 'origin'
 * 'git push origin branchName' -push to remote branch branchName
 * 'git push -u origin branchName' -push to remote branch branchName, making it default branch
+* 'git checkout -b newname'
 
 
 ### Branching Commands
